@@ -88,7 +88,7 @@ The CLS token starts as a learned parameter, has no patch content of its own, an
 
 Run it:
 
-```
+```bash
 python3 code/main.py
 ```
 
@@ -117,7 +117,7 @@ This block stack is the substrate. The next lessons (60-63) stand on top of it.
 
 Run them:
 
-```
+```bash
 python3 -m unittest code/test_main.py
 ```
 
